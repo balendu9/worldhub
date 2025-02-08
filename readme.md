@@ -108,5 +108,7 @@ Note ⬆️: App is currently under development to suit all functionality and UI
 ## 🤝 **Join the Community**
 
 🔹 Twitter: [@RawatBalendu](https://twitter.com/rawatBalendu)
+🔹 Twitter: [@realhavenn](https://twitter.com/realhavenn)
+🔹 Telegram: @realhavenn
 
 WorldHub is **building the future of social-finance**—**be part of the revolution!** 🚀💡
