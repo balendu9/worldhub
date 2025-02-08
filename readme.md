@@ -17,6 +17,9 @@ WorldHub is where **social networking meets DeFi, e-commerce, and reputation-bas
 
 ---
 
+- [Contracts README](./contracts/README.md) - Detailed information about the smart contract implementation.
+- [Databases README](./database/README.md) - Information regarding the database structure and implementation.
+
 ## 🔥 **Key Features**  
 
 ### 🐦 **ECHO: Twitter-Like Global Feed with Built-in Trading**  
@@ -62,7 +65,7 @@ WorldHub is where **social networking meets DeFi, e-commerce, and reputation-bas
 
 ## 🛠 **Tech Stack**  
 
-**Frontend:** React, Next.js, Tailwind CSS, Wagmi  
+**Frontend:** Next.js, Tailwind CSS, Wagmi
 **Backend:** Node.js, Express, PostgreSQL  
 **Blockchain:** Solidity, Hardhat, Ethereum & Layer 2 solutions  
 **Identity & Verification:** World ID  
