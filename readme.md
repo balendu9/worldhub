@@ -13,9 +13,13 @@ WorldHub is a **Sybil-resistant Web3 community platform** that enables **real hu
 - **Creators and users earn seamlessly** – Content creators, traders, and community leaders get **paid instantly** for engagement and contributions.  
 - **Trading is built into conversations** – Users can buy, sell, and trade tokens **inside chats and threads** without leaving the platform.  
 
-WorldHub is where **social networking meets DeFi, e-commerce, and reputation-based earning**—all powered by **World ID verification** to keep bots out and real people in.  
+WorldHub is where **social networking meets DeFi, e-commerce, and reputation-based earning**—all powered by **World ID verification** to keep bots out and real people in.
 
 ---
+app in progress-> https://worldcoin.org/mini-app?app_id=app
+_4f9a84673cebb731f6c5ad946bbf99fa&draft_id=meta
+_1184153ad0edb1e8514434cae9c925ac
+
 - [Wireframe](https://whimsical.com/worldhub-EqSeXf1dGZpgWFU2sqS82H)
 - [Figma](https://www.figma.com/design/xlcL7D7D0O7ITutlpzYvMv/WorldHub?node-id=13-60&t=Fto5iR11EpMFLbVr-0)
 - [Presentation](https://www.canva.com/design/DAGeg7qkitE/WH4IBCHRqJ7S_iGE4baxFw/view?utm_content=DAGeg7qkitE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1945a97363)
@@ -58,6 +62,7 @@ WorldHub is where **social networking meets DeFi, e-commerce, and reputation-bas
 
 ---
 
+
 ## 💡 **Why WorldHub?**  
 
 ✅ **No Bots. No Sybil Attacks.** Every user is verified through **World ID**, ensuring authentic engagement.  
@@ -69,7 +74,8 @@ WorldHub is where **social networking meets DeFi, e-commerce, and reputation-bas
 
 ## 🛠 **Tech Stack**  
 
-**Frontend:** Next.js, Tailwind CSS, Wagmi
+**Frontend:** Next.js, Tailwind CSS, Viem, Minikit
+
 **Backend and Database:** PostgreSQL  
 **Blockchain:** Solidity, WorldChain  
 **Identity & Verification:** World ID  
