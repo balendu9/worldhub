@@ -75,3 +75,42 @@ function calculatePrice(uint256 supply) public view returns (uint256) {
     }
     return _calculateBasePrice(supply);
 }
+
+```
+
+
+# Factory Contract
+
+The `Factory.sol` contract allows for the creation of custom tokens based on the `Tokens.sol` contract. It facilitates the management of metadata and allows users to buy and sell tokens. This contract ensures easy deployment of tokens, tracks token metadata, and enables seamless interaction with the token contracts.
+
+
+
+## Key Features
+
+- **Token Creation**: Allows the creation of new tokens using the `Tokens.sol` contract.
+- **Metadata Management**: Each created token has associated metadata, including the token name, symbol, description, and image URI.
+- **User and Token Tracking**: Tracks all tokens created by a user and provides a way to retrieve all tokens.
+- **Interaction with Token**: Supports the functionality to buy and sell tokens by interacting with the deployed token address.
+
+---
+
+## Token Metadata Management
+
+Each token created through the Factory contract will have associated metadata. This metadata can include:
+
+- **Name**: The name of the token.
+- **Symbol**: The token's ticker symbol.
+- **Description**: A short description of the token.
+- **Image URI**: A URI linking to the token's image.
+
+### Token Metadata Struct
+
+```solidity
+struct TokenMetadata {
+    string name;
+    string symbol;
+    string description;
+    string imageUri;
+    address tokenAddress;
+    address owner;
+}

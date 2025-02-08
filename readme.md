@@ -79,9 +79,9 @@ WorldHub is where **social networking meets DeFi, e-commerce, and reputation-bas
 
 ## 📅 **Roadmap**  
 
-✔ **MVP Launch** – Core social, chat, and trading features  
-✔ **World ID Integration** – Sybil-resistant verification & reputation scoring  
-✔ **Token Marketplace & On-Chain Reputation** – Community-driven economy  
+⬜ **MVP Launch** – Core social, chat, and trading features  
+⬜**World ID Integration** – Sybil-resistant verification & reputation scoring  
+⬜ **Token Marketplace & On-Chain Reputation** – Community-driven economy  
 ⬜ **Governance & DAO Features** – Verified decision-making tools  
 ⬜ **AI & Data Markets** – Expanding monetization opportunities  
 
