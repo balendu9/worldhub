@@ -23,7 +23,7 @@ WorldHub is where **social networking meets DeFi, e-commerce, and reputation-bas
 \_4f9a84673cebb731f6c5ad946bbf99fa&draft_id=meta
 \_1184153ad0edb1e8514434cae9c925ac
 
-⚠️App is currently under development to suit all functionality and UI but feel free to look at where we have gotten to.
+Note ⬆️: App is currently under development to suit all functionality and UI but feel free to take a look at the progress
 
 - [Wireframe](https://whimsical.com/worldhub-EqSeXf1dGZpgWFU2sqS82H)
 - [Figma](https://www.figma.com/design/xlcL7D7D0O7ITutlpzYvMv/WorldHub?node-id=13-60&t=Fto5iR11EpMFLbVr-0)
