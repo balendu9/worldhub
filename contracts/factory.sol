@@ -36,7 +36,7 @@ contract FunFactory {
     // require(creatorTokens[msg.sender].length < 1, "Max 1 token per creator");
     
     // Deploy new token
-    WorldFun newToken = new WorldFun(name, symbol);
+    Tokens newToken = new Tokens(name, symbol);
     address tokenAddress = address(newToken);
 
     // Store token metadata

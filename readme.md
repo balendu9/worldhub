@@ -16,10 +16,11 @@ WorldHub is a **Sybil-resistant Web3 community platform** that enables **real hu
 WorldHub is where **social networking meets DeFi, e-commerce, and reputation-based earning**—all powered by **World ID verification** to keep bots out and real people in.  
 
 ---
-
+- [Wireframe](https://whimsical.com/worldhub-EqSeXf1dGZpgWFU2sqS82H)
+- [Figma](https://www.figma.com/design/xlcL7D7D0O7ITutlpzYvMv/WorldHub?node-id=13-60&t=Fto5iR11EpMFLbVr-0)
 - [Contracts README](./contracts/README.md) - Detailed information about the smart contract implementation.
 - [Databases README](./database/README.md) - Information regarding the database structure and implementation.
-- [Wireframe](https://whimsical.com/worldhub-EqSeXf1dGZpgWFU2sqS82H)
+
 
 ## 🔥 **Key Features**  
 
