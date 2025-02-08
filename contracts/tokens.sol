@@ -25,7 +25,7 @@ contract Tokens is ERC20 {
   );
   event LaunchThresholdReached(uint256 marketCap, uint256 timestamp);
 
-  uint256 public constant INITIAL_PRICE = 0.00001 ether;
+  uint256 public constant INITIAL_PRICE = 0.00001 ether; //0.001 is better price
   uint256 public constant MAX_SUPPLY = 100 * 10 ** 18; // 100k tokens
   uint256 public constant LAUNCH_MARKET_CAP = 10000000 ether; // 1 million ETH
 
