@@ -19,6 +19,7 @@ WorldHub is where **social networking meets DeFi, e-commerce, and reputation-bas
 
 - [Contracts README](./contracts/README.md) - Detailed information about the smart contract implementation.
 - [Databases README](./database/README.md) - Information regarding the database structure and implementation.
+- [Wireframe](https://whimsical.com/worldhub-EqSeXf1dGZpgWFU2sqS82H)
 
 ## 🔥 **Key Features**  
 
@@ -35,6 +36,7 @@ WorldHub is where **social networking meets DeFi, e-commerce, and reputation-bas
 ### 💰 **Integrated Token Creation & Trading**  
 - Users can **mint their own tokens**, list them in a **marketplace**, and **trade directly in-app**.  
 - Seamless DeFi integration enables **instant peer-to-peer swaps** and **community-driven token economies**.  
+- Proper mechanisms for token buy and sell with **Automated Market Making** and bonding curve for proper token lauch.
 
 ### 🎯 **Micro-Earning & On-Chain Tasks**  
 - Users can **earn WLD or project tokens** by completing **on-chain tasks**, surveys, AI training, and beta testing.  
