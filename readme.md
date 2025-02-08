@@ -18,6 +18,7 @@ WorldHub is where **social networking meets DeFi, e-commerce, and reputation-bas
 ---
 - [Wireframe](https://whimsical.com/worldhub-EqSeXf1dGZpgWFU2sqS82H)
 - [Figma](https://www.figma.com/design/xlcL7D7D0O7ITutlpzYvMv/WorldHub?node-id=13-60&t=Fto5iR11EpMFLbVr-0)
+- [Presentation](https://www.canva.com/design/DAGeg7qkitE/WH4IBCHRqJ7S_iGE4baxFw/view?utm_content=DAGeg7qkitE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1945a97363)
 - [Contracts README](./contracts/README.md) - Detailed information about the smart contract implementation.
 - [Databases README](./database/README.md) - Information regarding the database structure and implementation.
 
