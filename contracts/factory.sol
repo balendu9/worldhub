@@ -3,7 +3,7 @@ pragma solidity ^0.8.24;
 
 import "./tokens.sol";
 
-contract FunFactory {
+contract Factory {
   event TokenCreated(
     address tokenAddress,
     string name,
