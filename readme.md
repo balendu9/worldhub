@@ -68,10 +68,10 @@ WorldHub is where **social networking meets DeFi, e-commerce, and reputation-bas
 ## 🛠 **Tech Stack**  
 
 **Frontend:** Next.js, Tailwind CSS, Wagmi
-**Backend:** Node.js, Express, PostgreSQL  
-**Blockchain:** Solidity, Hardhat, Ethereum & Layer 2 solutions  
+**Backend and Database:** PostgreSQL  
+**Blockchain:** Solidity, WorldChain  
 **Identity & Verification:** World ID  
-**Smart Contracts:** ERC-20, ERC-721, custom governance & trading contracts  
+**Smart Contracts:** ERC-20, custom governance & trading contracts  
 
 ---
 
